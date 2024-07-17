@@ -35,6 +35,5 @@ Lately, I've been diving into the world of Elixir, a dynamic, functional languag
 🌟 **Fun Fact**  
 When I am not coding, I love exploring new places, reading tech blogs, and trying out new recipes.
 
-![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 
