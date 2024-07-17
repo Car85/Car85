@@ -26,6 +26,7 @@ I am enthusiastic about contributing to open-source projects and collaborating w
 Feel free to reach out if you want to collaborate on an exciting project or just want to chat about technology!
 
 - [GitHub](https://github.com/Car85)
+- Discord account: car85__
 
 🚀 **Current Focus**  
 Lately, I've been diving into the world of Elixir, a dynamic, functional language designed for building scalable and maintainable applications. Check out my first app with elixir https://github.com/Car85/simplechat to see my latest work!
