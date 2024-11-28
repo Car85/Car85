@@ -22,6 +22,11 @@ I am passionate about continuous learning and have taken various courses to deep
 💡 **Open Source & Collaboration**  
 I am enthusiastic about contributing to open-source projects and collaborating with fellow developers. I believe in the power of collective effort and shared knowledge.
 
+🛡️ ** You can check my credly achievements here:
+[Badget Wallet](https://www.credly.com/users/carlos-alvaro-rodriguez)
+<!--START_BADGES:badges-->
+<!--END_BADGES:badges-->
+
 📫 **Get in Touch**  
 Feel free to reach out if you want to collaborate on an exciting project or just want to chat about technology!
 
@@ -33,6 +38,7 @@ Lately, I've been diving into the world of Elixir, a dynamic, functional languag
 
 🌟 **Fun Fact**  
 When I am not coding, I love exploring new places, reading tech blogs, and trying out new recipes.
+
 
 
 
