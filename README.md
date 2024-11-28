@@ -40,6 +40,7 @@ Feel free to reach out if you want to collaborate on an exciting project or just
 
 - [GitHub](https://github.com/Car85)
 - Discord account: car85__
+- Email: car85@startmail.com
 
 🚀 **Current Focus**  
 Lately, I've been diving into the world of Elixir, a dynamic, functional language designed for building scalable and maintainable applications. Check out my first app with elixir https://github.com/Car85/simplechat to see my latest work!
