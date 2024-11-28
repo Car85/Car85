@@ -31,6 +31,9 @@ I am enthusiastic about contributing to open-source projects and collaborating w
 ![Data Visualization with Python](data-visualization-with-python.png)
 ![Python for Data Science and AI](python-for-data-science-and-ai.png)
 ![Python Project for Data Science](python-project-for-data-science.png)
+![Data Analyst Career Guide and Interview Preparation](data-analyst-career-guide-and-interview-preparation.png)
+
+
 
 
 
