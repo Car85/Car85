@@ -22,7 +22,7 @@ I am passionate about continuous learning and have taken various courses to deep
 💡 **Open Source & Collaboration**  
 I am enthusiastic about contributing to open-source projects and collaborating with fellow developers. I believe in the power of collective effort and shared knowledge.
 
-🛡️ **You can check my credly achievements here:
+🛡️ **You can check my credly achievements here:**
 
 [My Badget Wallet on Credly platform](https://www.credly.com/users/carlos-alvaro-rodriguez)
 <!--START_BADGES:badges-->
