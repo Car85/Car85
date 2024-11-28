@@ -25,8 +25,16 @@ I am enthusiastic about contributing to open-source projects and collaborating w
 🛡️ **You can check my credly achievements here:**
 
 [My Badget Wallet on Credly platform](https://www.credly.com/users/carlos-alvaro-rodriguez)
-<!--START_BADGES:badges-->
-<!--END_BADGES:badges-->
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd9861f5-3ac2-4662-a415-ad6afe6f563e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bb4ac08b-56d2-4eae-a06d-6045529e8881" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="96d08f7a-7ca7-43ce-8a3d-4f7809b63d96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="17c34ed0-0f1f-4f08-af71-6f9b73df0134" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7056bfa8-f837-4b94-896a-f91f34291d2d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 📫 **Get in Touch**  
 Feel free to reach out if you want to collaborate on an exciting project or just want to chat about technology!
