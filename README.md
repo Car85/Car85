@@ -4,15 +4,14 @@
 With over 3 years of professional experience as a Java developer, I specialize in maintaining and enhancing legacy applications. My skill set spans various programming languages and frameworks, including:
 
 - 🌐 **Languages & Frameworks**:
-  - Java
-  - Bash
-  - R
-  - Python
-  - JavaScript
-  - TypeScript
-  - React
-  - Preact
-  - Elixir (currently focusing on this and building my portfolio)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
 🎓 **Education & Certifications**  
 I am passionate about continuous learning and have taken various courses to deepen my understanding of these technologies.
