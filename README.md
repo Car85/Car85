@@ -50,7 +50,7 @@ Feel free to reach out if you want to collaborate on an exciting project or just
 - Email: car85@startmail.com
 
 🚀 **Current Focus**  
-Lately, I've been diving into the world of Elixir, a dynamic, functional language designed for building scalable and maintainable applications. Check out my first app with elixir https://github.com/Car85/simplechat to see my latest work!
+Lately, I've been diving into the world of Elixir, a dynamic, functional language designed for building scalable and maintainable applications. Check out my first app with elixir https://github.com/Car85/simplechat to see my latest ongoing side-project!
 
 🌟 **Fun Fact**  
 When I am not coding, I love exploring new places, reading tech blogs, and trying out new recipes.
