@@ -17,6 +17,8 @@ With over 3 years of professional experience as a Java developer, I specialize i
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+<img src="https://img.shields.io/badge/Go-blue?logo=go&logoColor=white" alt="Go Badge" height="27">
+
 
 
 🎓 **Education & Certifications**  
